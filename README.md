@@ -34,6 +34,8 @@ Algorithm Used: Collaborative Filtering using Cosine Similarity
 
 Concept is Based On: Apache Mahout’s Recommendation Engine
 
+Used resources like GOOGLE, QUICKREF, YOUTUBE AND CHATGPT for quick reference and to know some info, they helped me complete tasks efficiently.
+
 # Editor and Compiler Platforms Used:
 
 I used the OnlineGDB and JDoodle platforms to compile and execute the Java program online.
