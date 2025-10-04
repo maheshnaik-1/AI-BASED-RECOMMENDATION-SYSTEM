@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-# Description of the Task:
+# Description of Task4:
 
 I created an AI-Based Recommendation System using Java to understand how artificial intelligence can predict user preferences and suggest relevant items. The main goal of this task was to explore how recommendation systems work in real-world platforms such as Netflix, Amazon, and Spotify, where they help personalize the user experience.
 
