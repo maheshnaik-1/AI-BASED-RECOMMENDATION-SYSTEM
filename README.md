@@ -67,3 +67,49 @@ Streaming services: To recommend movies, music, or shows similar to the ones use
 Content websites: To personalize news feeds or article suggestions according to user interests.
 
 In short, this AI-based system improves user engagement, personalization, and satisfaction by providing intelligent suggestions.
+
+# Output:
+
+=== AI-Based Recommendation System ===
+
+Enter number of users: 3
+
+Enter number of items: 4
+
+Enter ratings (enter 0 if user hasn't rated the item):
+
+User 1, Item 1 rating: 4
+
+User 1, Item 2 rating: 3
+
+User 1, Item 3 rating: 0
+
+User 1, Item 4 rating: 0
+
+User 2, Item 1 rating: 5
+
+User 2, Item 2 rating: 0
+
+User 2, Item 3 rating: 4
+
+User 2, Item 4 rating: 0
+
+User 3, Item 1 rating: 0
+
+User 3, Item 2 rating: 4
+
+User 3, Item 3 rating: 5
+
+User 3, Item 4 rating: 4
+
+Enter the user ID to recommend for (1-3): 1
+
+Enter number of recommendations to display: 2
+
+--- Recommendations for User 1 ---
+
+Item 3 | Predicted Score: 4.34
+
+Item 4 | Predicted Score: 1.35
+
+![Image](https://github.com/user-attachments/assets/b8b940c1-3447-4744-913b-516b2218065b)
